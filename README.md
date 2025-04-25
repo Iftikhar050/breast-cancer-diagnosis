@@ -7,7 +7,7 @@ This project uses various machine learning algorithms to predict whether a tumor
 
 ## 📊 Dataset
 
-- The dataset used is the **Breast Cancer Wisconsin (Diagnostic) Dataset** from the UCI Machine Learning Repository.
+- The dataset used is the **Breast Cancer Wisconsin (Diagnostic) Dataset** from Kaggle.
 - It includes features computed from digitized images of fine needle aspirate (FNA) of breast masses.
 
 ---
